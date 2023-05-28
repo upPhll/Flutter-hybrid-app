@@ -5,11 +5,15 @@ If you decided to build a website and now want to offer it packaged as an app to
 
 Hybrid apps are a very efficient alternative to native apps. They basically use the browser engine of your operating system to load only one mobile-optimized website, yours. Since you're checking out this page, I'm almost certain you already know about the benefits of hybrid apps, so let's get right to it.
 
-## To get a quick first impression
 
-1. Check out the app 'bindint' in the Play or App Store.
+## To get a quick first impression
+This video shows the behaviour of the template when opening the app and the transitions when loading different pages:
+
+https://github.com/upPhll/Flutter-hybrid-app/assets/115892491/17708069-3eb2-49e1-a03b-1f95d04c3211
 
 or
+
+1. Check out the app 'bindint' in the Play or App Store.
 
 2. Create a new Flutter project, copy the main.dart and pubspec.yaml, change all "example.com" in the main.dart to your website and run the app.
 
